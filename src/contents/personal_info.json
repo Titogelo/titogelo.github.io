@@ -1,26 +1,19 @@
 {
-  "name": "Samed Düzçay",
-  "profession": "Software Engineer",
-  "summary": "A confident, self-motivated and self-taught software engineer with 5 years of experience in back-end and front-end web development. A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills.",
-  "mail": "samedduzcay@gmail.com",
+  "name": "Ángel Suárez",
+  "profession": "PhD Student, Software Engineer, Entrepreneur",
+  "summary": "A confident, self-motivated and self-taught software engineer with 6 years of experience in back-end and front-end web development. A deep researcher and a passionate learner in every aspect of his life, with good analytical and problem solving skills. <br/><br/> - Richard Feynman:\"I think it's much more interesting to live not knowing than to have answers which might be wrong.\"",
+  "mail": "suarezfdz86@gmail.com",
+  "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/02d/0cd/1059eef.jpg",
   "address": {
-    "title": "Şişli, Istanbul, TURKEY",
-    "url": "https://www.google.com/maps/place/Şişli,+19+Mayıs,+34360+Şişli%2Fİstanbul,+Turkey/@41.0602771,28.9790232,15z/data=!3m1!4b1!4m5!3m4!1s0x14cab71b4b2a7585:0x8f4cb3b604ac157f!8m2!3d41.060278!4d28.987778"
-  },
-  "personal_site": {
-    "title": "smddzcy.com",
-    "url": "http://www.smddzcy.com/"
+    "title": "Maastricht, Limburg, The Netherlands",
+    "url": "https://www.google.com/maps/place/Maastricht,+Netherlands/@50.857386,5.6308642,12z/data=!3m1!4b1!4m5!3m4!1s0x47c0e9ec5841069f:0x53eb957bccbea86e!8m2!3d50.8513682!4d5.6909725"
   },
   "github": {
-    "title": "github.com/smddzcy",
-    "url": "https://github.com/smddzcy"
+    "title": "github.com/titogelo",
+    "url": "https://github.com/Titogelo"
   },
   "linkedin": {
-    "title": "linkedin.com/in/smddzcy",
-    "url": "https://www.linkedin.com/in/smddzcy"
-  },
-  "hackerrank": {
-    "title": "hackerrank.com/smddzcy",
-    "url": "https://www.hackerrank.com/smddzcy"
+    "title": "linkedin.com/in/angel.suarez",
+    "url": "https://www.linkedin.com/in/angel-suarez-fernandez-20658b23"
   }
 }

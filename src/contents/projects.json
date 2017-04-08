@@ -1,44 +1,13 @@
 [{
-  "name": "BounCoursePlanner",
-  "description": "Course schedule planner for Boğaziçi University students. Finds the best schedule, which has the less conflicts and most free hours they want.",
-  "github": "https://github.com/smddzcy/BounCoursePlanner",
-  "link": "http://www.smddzcy.com/BounCoursePlanner/"
+  "name": "Nurturing Communities of Inquiry: A Formative Study of the DojoIBL Platform, 2016",
+  "description": "This formative study introduces DojoIBL, a web-based platform to support collaborative inquiry-based learning processes. By supporting communication and collaboration with new technological affordances, DojoIBL aims at nurturing communities of inquiry. The study elaborates on the theoretical ...",
+  "link": "https://link.springer.com/chapter/10.1007/978-3-319-45153-4_22"
 }, {
-  "name": "BUEvents",
-  "description": "Events calendar for Boğaziçi University. It's the only events calendar since there isn't any official one.",
-  "github": "https://github.com/smddzcy/BUEvents",
-  "link": "http://www.smddzcy.com/BUEvents/"
+  "name": "Supporting Inquiry-based Learning with Google Glass (GPIM), 2015",
+  "description": "Wearable technology is a new genre of technology that is appearing to enhance learning in context. This manuscript introduces a Google Glass application to support Inquiry-based Learning (IBL). Applying Google Glass to IBL, we aim to transform the learning process into a more seamless, personal and ...",
+  "link": "http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/24_6.pdf"
 }, {
-  "name": "BUYemek",
-  "description": "An iOS app for Boğaziçi University's cafeteria. There is also a separate project for its <a href=\"https://github.com/smddzcy/BUYemek\" target=\"_blank\">REST API</a>.",
-  "github": "https://github.com/smddzcy/BUYemek-iOS"
-}, {
-  "name": "SkateMate",
-  "description": "SkateMate enables skaters to find and share new spots, and connect with each other in real-time. It was our ENG 493 - Launching a Successful Software Startup course project in 2016 Fall term, at Boğaziçi University.<br/>I was responsible for the development of the mobile application (cross-platform, built with Ionic).",
-  "github": "https://github.com/smddzcy/SkateMate",
-  "link": "http://www.getskatemate.com/"
-}, {
-  "name": "Panic Bracelet",
-  "description": "A smart bracelet that shows you the probability of being harassed in a neighborhood, and sends a message to your loved ones and the police when pressed. Built by WowTeam for TechSummit IBM Hackathon at Boğaziçi University and won the 1st prize.<br/>I ws responsible for the backend (Node.js), machine learning (TensorFlow), and whole web application (Pug & Bootstrap).",
-  "github": "https://github.com/smddzcy/hackathon-techsummit-2017"
-}, {
-  "name": "Wower",
-  "description": "An app for cyber attack protection which protects the user's files and tracks the attacker. Built by WowTeam for COMODO & COMPEC Hackathon at Boğaziçi University and won the 1st prize.<br/>I was responsible for the development of the desktop app (Electron, Node.js, AngularJS) and its RESTful API (Ruby on Rails).",
-  "github": "https://github.com/smddzcy/Wower"
-}, {
-  "name": "WowDoor",
-  "description": "An IoT device that gives the ability to lock &amp; unlock doors with a smartphone. Built by sudoers team for IoT Hackathon at Boğaziçi University, won the 1st prize.",
-  "github": "https://github.com/smddzcy/WowDoor"
-}, {
-  "name": "EngelsizMenu",
-  "description": "Accessible, easy-to-use restaurant menu app for blind and visually impaired. I was responsible for the development of the RESTful API and iOS application.",
-  "github": "https://github.com/smddzcy/EngelsizMenu"
-}, {
-  "name": "IlanTakip",
-  "description": "Automatic tracking system for some real-estate listing sites in Turkey.",
-  "github": "https://github.com/smddzcy/ilanTakip"
-}, {
-  "name": "dekrypt",
-  "description": "A command-line tool for automatic decryption/decipher of a number of encryption/cipher algorithms.",
-  "github": "https://github.com/smddzcy/dekrypt"
+  "name": "GPIM: Google Glassware for Inquiry-Based Learning, 2014",
+  "description": "Over the past few years, the use of mobile personal devices has witnessed a widespread take-up. With wearable technology like head-up-displays a new genre of educational technology is appearing to enhance contextualized learning. This paper reports about a Google Glass prototype for Inquiry-Based Learning ...",
+  "link": "https://link.springer.com/chapter/10.1007/978-3-319-11200-8_58"
 }]

@@ -1,6 +1,18 @@
 [{
-  "name": "Boğaziçi University",
-  "degree": "B.S. Computer Engineering",
-  "date": "09/2015 - Present",
-  "description": "GPA: 3.74/4. Member of <a href=\"http://compec.boun.edu.tr/\" target=\"_blank\">COMPEC (Boğaziçi University IT Club)</a> and <a href=\"http://www.budak.boun.edu.tr\" target=\"_blank\">BÜDAK (Boğaziçi University Mountaineering Club)</a>. Founding member of BÜGAK (Boğaziçi University Futurism Club)."
+  "name": "Open University of the Netherlands",
+  "degree": "Master Thesis",
+  "date": "01/2013 - 06/2013",
+  "description": "Interactive visualizations for ARLearn, a tool suite for educators and learners, which aims to enhance educational experience based on serious games. ARLearn provides functionality for both teachers and students."
+}, 
+{
+  "name": "Oviedo University",
+  "degree": "M.S.C. Web Engineering",
+  "date": "2011 - 2013",
+  "description": "Gained experience in: web architecture, design patterns, web services, web security, web semantic, MDD, project management, usability, accesibility and adpatability."
+}, 
+{
+  "name": "Oviedo University",
+  "degree": "B.S. Computer Science, Information Technology",
+  "date": "2005 - 2010",
+  "description": "Gained basic knowledge and experience about transversal topics related to Computer Science like mathematics, algorithms or logic."
 }]

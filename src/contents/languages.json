@@ -1,13 +1,10 @@
 [{
-  "name": "Turkish",
+  "name": "Spanish",
   "level": "Native"
 }, {
   "name": "English",
   "level": "C2, Proficient"
 }, {
-  "name": "French",
-  "level": "A1, Elementary"
-}, {
-  "name": "German",
-  "level": "B1, Intermediate"
+  "name": "Dutch",
+  "level": "A2, Elementary"
 }]
