@@ -8,8 +8,8 @@ module.exports = function(grunt) {
     less: {
       dist: {
         files: {
-          'dist/css/main.less.css': 'src/less/build.less',
-          'dist/css/print.less.css': 'src/less/print.less',
+          'css/main.less.css': 'src/less/build.less',
+          'css/print.less.css': 'src/less/print.less',
         }
       }
     },
@@ -17,8 +17,8 @@ module.exports = function(grunt) {
     autoprefixer: {
       dist: {
         files: {
-          'dist/css/main.less.css': 'dist/css/main.less.css',
-          'dist/css/print.less.css': 'dist/css/print.less.css'
+          'css/main.less.css': 'css/main.less.css',
+          'css/print.less.css': 'css/print.less.css'
         },
         options: {
           browsers: ['last 2 versions', 'ie >= 8']
@@ -86,14 +86,14 @@ module.exports = function(grunt) {
           expand: true,
           cwd: 'src/html/',
           src: ['**/*.html', '!**/_*.html'],
-          dest: 'dist/'
+          dest: ''
         }]
       }
     },
 
     clean: {
       prebuild: {
-        src: ['dist/**/*.less.css', '*.html']
+        src: ['**/*.less.css', '*.html']
       }
     },
 
@@ -104,8 +104,8 @@ module.exports = function(grunt) {
 
       dist: {
         files: {
-          'dist/css/main.min.less.css': 'dist/css/main.less.css',
-          'dist/css/print.min.less.css': 'dist/css/print.less.css'
+          'css/main.min.less.css': 'css/main.less.css',
+          'css/print.min.less.css': 'css/print.less.css'
         }
       }
     },
@@ -119,8 +119,8 @@ module.exports = function(grunt) {
     copy: {
       all: {
         files: [
-          {expand: true, cwd: 'src/img/', src: ['**'], dest: 'dist/img/'},
-          {expand: true, cwd: 'src/fonts/', src: ['**'], dest: 'dist/fonts/'}
+          {expand: true, cwd: 'src/img/', src: ['**'], dest: 'img/'},
+          {expand: true, cwd: 'src/fonts/', src: ['**'], dest: 'fonts/'}
         ]
       }
     }

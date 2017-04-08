@@ -1,0 +1,15 @@
+/*
+  Change accordingly, or change paper sizes while saving to PDF / printing
+  to get a one page CV / resume.
+*/
+@media print {
+  html {
+    min-width: 300mm;
+  }
+  * {
+    font-weight: initial !important;
+  }
+  .container {
+    width: 100%;
+  }
+}
