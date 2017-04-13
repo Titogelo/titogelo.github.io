@@ -1,15 +1,26 @@
 [{
-  "name": "Nurturing Communities of Inquiry: A Formative Study of the DojoIBL Platform, 2016",
-  "description": "This formative study introduces DojoIBL, a web-based platform to support collaborative inquiry-based learning processes. By supporting communication and collaboration with new technological affordances, DojoIBL aims at nurturing communities of inquiry. The study elaborates on the theoretical ...",
-  "link": "https://link.springer.com/chapter/10.1007/978-3-319-45153-4_22"
+  "name": "DojoIBL (2016 - Present) ",
+  "description": "DojoIBL is an open source platform that builds on a PaaS (Platform as a Service) cloud based architecture. It is deployed in Google App Engine (GAE) and it uses AngularJs to articulate the frontend.​ Its purpose is to provide tools and strategies to Teachers and Students to structure and organize collaborative Inquiry Based Learning processes.",
+  "link": "https://dojo-ibl.appspot.com"
 }, {
-  "name": "Supporting Inquiry-based Learning with Google Glass (GPIM), 2015",
-  "description": "Wearable technology is a new genre of technology that is appearing to enhance learning in context. This manuscript introduces a Google Glass application to support Inquiry-based Learning (IBL). Applying Google Glass to IBL, we aim to transform the learning process into a more seamless, personal and ...",
-  "link": "http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/24_6.pdf"
+  "name": "LA4S (Learning Analytics for Small Universities) (2016-2017)",
+  "description": "The main objectives of this European project 'Learning Analytics 4S' are to integrate already carried out experiences in the research topics LA and LPM, in combination with aspects of Learning Semantics (LS) and transfer innovations from these fields into the area of small size Higher Education institutions, like the University of Liechtenstein.​",
+  "link": "http://www.learning-analytics.uni.li/"
 }, {
-  "name": "GPIM: Google Glassware for Inquiry-Based Learning, 2014",
-  "description": "Over the past few years, the use of mobile personal devices has witnessed a widespread take-up. With wearable technology like head-up-displays a new genre of educational technology is appearing to enhance contextualized learning. This paper reports about a Google Glass prototype for Inquiry-Based Learning ...",
-  "link": "https://link.springer.com/chapter/10.1007/978-3-319-11200-8_58"
+  "name": "weSPOT European Project (2013 - 2015)",
+  "description": "weSPOT aims at propagating scientific inquiry as the approach for science learning and teaching in combination with today's curricula and teaching practices. It lowers the threshold for linking everyday life with science teaching in schools by technology.​",
+  "link": "http://portal.ou.nl/en/web/wespot/about"
+}, {
+  "name": "Smart Data Protection S.L. (2013 - Present)",
+  "description": "Online platform to provide an automated solution for customers to comply with digital regulations and obligations. It became a company that achieved several awards in the last years.",
+  "link": "http://smartdataprotection.eu/"
+}, {
+  "name": "GPIM (Glassware Personal Inquiry Manager) (2015)",
+  "description": "Wearable application using Google Glass. The aims was to apply Inquiry Based Learning to the Google Glass concept, in order to create a more seamless experience for the students."
+}, {
+  "name": "PIM (Personal Inquiry Manager) (2014)",
+  "description": "Mobile app for iOS and Android to support Inquiry Based Learning proceses from mobile devices. The aims was to apply Inquiry Based Learning to the Google Glass concept, in order to create a more seamless experience for the students.",
+  "link": "https://play.google.com/store/apps/details?id=net.wespot.pim&hl=en"
 }]
 
 

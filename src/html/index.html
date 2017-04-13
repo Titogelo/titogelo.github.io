@@ -83,7 +83,7 @@
         <!--(bake-end)-->
 
         <!--(bake-start _if="projects.length")-->
-          <!--(bake _section-header.html title="Publications")-->
+          <!--(bake _section-header.html title="Projects")-->
           <!--(bake-start _foreach="project:projects")-->
             <section class="project">
               <div class="col-sm-12">
@@ -188,6 +188,27 @@
             </ul>
           </div>
         </section>
+        <!--(bake-end)-->
+
+        <!--(bake-start _if="publications.length")-->
+          <!--(bake _section-header.html title="Publications")-->
+          <!--(bake-start _foreach="publication:publications")-->
+            <section class="project">
+              <div class="col-sm-12">
+                <div class="flex-row flex-space-between">
+                  <h1>{{publication.name | trim}}
+                    <!--(bake-start _if="project.github")-->
+                    <a href="{{publication.github | trim}}" target="_blank"><i class="fa fa-github"></i></a>
+                    <!--(bake-end)-->
+                    <!--(bake-start _if="project.link")-->
+                    <a href="{{publication.link | trim}}" target="_blank"><i class="fa fa-globe"></i></a>
+                    <!--(bake-end)-->
+                  </h1>
+                </div>
+                <p>{{publication.description | trim}}</p>
+              </div>
+            </section>
+          <!--(bake-end)-->
         <!--(bake-end)-->
 
         <!--(bake-start _if="languages.length")-->
