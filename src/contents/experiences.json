@@ -1,13 +1,14 @@
 [{
-  "company": "Open University of the Netherlands",
+  "company": "Welten Institute (Open University of the Netherlands)",
   "role": "PhD Candidate",
   "date": "09/2013 - Present",
-  "location": "Maastricht, the Netherlands",
+  "location": "Heerlen, the Netherlands",
   "description_bullets": [
-    "Conducted research on Inquiry Based Learning. Improving students' and teachers performance by using (mobile, wearable and desktop based) technology.",
-    "Successful interdisciplinary collaborations in european projects (weSPOT, ECO, LA4S & Elite)",
-    "<a href=\"https://dojo-ibl.appspot.com/\" target=\"_blank\">DojoIBL</a> responsible: Platform to support Collaborative Inquiry Based Learning across devices.",
-    "Aread of contribution: Inquiry Based Learning methodology | Experimental Design | Software Engineer | DojoIBL | Data analysis | Strong analytical & communication skills | Learning Analytics "
+    "Conducted research on Inquiry Based Learning (IBL), aimed at providing better structural and managerial support for IBL processes through mobile, wearable and desktop based technology.",
+    "Responsible for DojoIBL: a GAE cloud-based solution to structure Collaborative Inquiry Based Learning processes.",
+    "Successful interdisciplinary collaborations in several European projects (weSPOT, ECO, LA4S & Elite), resulting in several scientific publications.",
+    "Areas of contribution: Inquiry Based Learning | Experimental Design | Software Engineering | DojoIBL | Statistical analysis in R | Learning Analytics | Machine Learning",    
+    "Dissertation defence scheduled December 2017"
   ]
 },
 {
@@ -16,9 +17,10 @@
   "date": "10/2012 - Present",
   "location": "Maastricht, the Netherlands",
   "description_bullets": [
-    "Smart Data Protection: Reducing legal burden for customers with a tailored solution.",
-    "Actively developing and maintaining software",
-    "Areas of contribution: PHP (Symfony2) | Github | Sonata Admin | Agile Development | Frontend & Backend "
+    "Responsible for leading the technical development.",
+    "Smart Data Protection: Startup created to reduce customers' legal burden. Automated solution to adapt ecommerces, websites and SMEs to EU regulations.",
+    "Self-sustainable model with currently more than 4000 users.",
+    "Areas of contribution: PHP (Symfony2) | Github | Sonata Admin | Agile Development | Full Stack developer"
   ]
 },
 {
@@ -29,7 +31,7 @@
   "description_bullets": [
     "Actively developing and maintaining software for SMEs (Veterinary, Accounting and management, Lawyers college)",
     "Responsible for software development of the Albeitar project: Personalised software for veterinary clinics management",
-    "Areas of contribution: Velneo | Design | Software Engineer | Agile Development | Communication skills | Customer advice"
+    "Areas of contribution: Velneo | Design | Software Engineer | Agile Development | Communication skills | Customers consulting"
   ]
 }, {
   "company": "EDP Spain",
@@ -37,8 +39,8 @@
   "date": "07/2010 - 01/2011",
   "location": "Oviedo, Asturias, Spain",
   "description_bullets": [
-    "Responsible for the frontend in the EcoFamilias project.",
-    "EcoFamilias was a project to manage and save electric Asturian homes consuption.",
+    "Responsible for the frontend in the EcoFamilias project",
+    "EcoFamilias was a project to manage and save electric consumption for Asturian homes",
     "Fuzzy logic to determine best savings in electric fees.",
     "Technologies used: Java, MySQL, Javascript, HTML5, CSS3."
   ]

@@ -1,25 +1,20 @@
 [{
-  "title": "TechSummit IBM Hackathon 2017 - 1st Place",
-  "date": "02/2017",
-  "description": "There were 11 teams. We built <a href=\"https://github.com/smddzcy/hackathon-techsummit-2017\" target=\"_blank\">a smart bracelet for preventing harassment</a> and I was responsible for the backend (Node.js), machine learning (TensorFlow), and whole web application (Pug & Bootstrap)."
+  "title": "#SmartDataProtection selected for the 7th edition of Bbooster business accelerator​",
+  "date": "2014",
+  "description": "Selected to take part in the business accelerator program of Bbooster for 4 months."
 }, {
-  "title": "Comodo Hackathon - 1st Place",
-  "date": "12/2016",
-  "description": "There were 16 teams. We built <a href=\"https://github.com/smddzcy/Wower\" target=\"_blank\">Wower</a> and I was responsible for the backend API and desktop application."
+  "title": "#SmartDataProtection finalist of the Wayra Madrid 2014​",
+  "date": "12/2016"
 }, {
-  "title": "COMPEC Garaj Hackathon - 1st Place",
+  "title": "#SmartDataProtection has won the first price at #T3chFest",
   "date": "11/2015",
-  "description": "There were nearly 10 teams. We built a <a href=\"https://github.com/smddzcy/ESETGuvenlikOyunu\" target=\"_blank\">simple game</a> to give people some knowledge about online information security."
+  "description": "Won the first price at #T3chFest, second national fair about IT​."
 }, {
-  "title": "Büyük Sıçrama IOT Hackathon - 1st Place",
+  "title": "#SmartDataProtection best app migrated to #Tizen​",
   "date": "05/2016",
-  "description": "There were more than 20 teams. We built <a href=\"https://github.com/smddzcy/WowDoor\" target=\"_blank\">WowDoor</a> and I was responsible for the backend API (serverless architecture with Microsoft Azure)."
+  "description": "The best app migrated to #Tizen at #TizenHackMadrid."
 }, {
-  "title": "TechSummit Hackathon 2016 - 2nd Place",
+  "title": "#SmartDataProtection​ selected as one of the best 50 startups at #4FYN",
   "date": "04/2016",
-  "description": "There were nearly 10 teams. I've built a mail classifier that uses machine learning (Naive Bayes) by myself."
-}, {
-  "title": "UNFPA Innovation Day Project - 2nd Place",
-  "date": "06/2016",
-  "description": "We made a project to help spread the ideas of UNFPA."
+  "description": "Selected as one of the 50 startups at #4YFN. #4YFN is one of the events that takes place at the Mobile World Congress."
 }]
