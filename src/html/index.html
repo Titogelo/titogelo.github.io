@@ -127,6 +127,13 @@
             <!--(bake-start _if="school.description")-->
             <p>{{school.description | trim}}</p>
             <!--(bake-end)-->
+            <!--(bake-start _if="school.description_bullets")-->
+            <ul class="bullets custom-bullets">
+              <!--(bake-start _foreach="bullet:school.description_bullets")-->
+              <li><span>{{bullet | trim}}</span></li>
+              <!--(bake-end)-->
+            </ul>
+            <!--(bake-end)-->
           </div>
         </section>
         <!--(bake-end)-->
@@ -200,7 +207,7 @@
                     <!--(bake-start _if="project.github")-->
                     <a href="{{publication.github | trim}}" target="_blank"><i class="fa fa-github"></i></a>
                     <!--(bake-end)-->
-                    <!--(bake-start _if="project.link")-->
+                    <!--(bake-start _if="publication.link")-->
                     <a href="{{publication.link | trim}}" target="_blank"><i class="fa fa-globe"></i></a>
                     <!--(bake-end)-->
                   </h1>

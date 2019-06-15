@@ -1,19 +1,20 @@
 {
-  "name": "Ángel Suárez",
-  "profession": "PhD Student, Software Engineer, Entrepreneur",
-  "summary": "A confident, persevering and self-motivated software engineer with 6 years of experience in fullstack web and software development. A researcher and a passionate learner in every aspect of life, with good analytical and problem solving skills. I like being a team balancer. <br/><br/> - Richard Feynman:\"I think it's much more interesting to live not knowing than to have answers which might be wrong.\"",
+  "name": "Ángel Suárez Fernández",
+  "profession": "Software Engineer, PhD in Social Science, Entrepreneur",
+  "summary": "A dedicated, persevering and self-motivated Software Engineer with 8 years of experience. PhD in Technology Enhanced Learning, passionate learner, with good analytical and problem solving skills. Helping IT teams to turn ideas into products through honesty, integrity & respect.<br/><br/> - Richard Feynman:\"I think it's much more interesting to live not knowing than having answers which might be wrong.\" ",
+
   "mail": "suarezfdz86@gmail.com",
-  "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/02d/0cd/1059eef.jpg",
+  "photo": "img/photo.png",
   "address": {
-    "title": "Maastricht, Limburg, The Netherlands",
-    "url": "https://www.google.com/maps/place/Maastricht,+Netherlands/@50.857386,5.6308642,12z/data=!3m1!4b1!4m5!3m4!1s0x47c0e9ec5841069f:0x53eb957bccbea86e!8m2!3d50.8513682!4d5.6909725"
+    "title": "London, United Kingdom",
+    "url": "https://www.google.com/maps/place/London/@51.5287714,-0.2420251,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583"
   },
   "github": {
     "title": "github.com/titogelo",
     "url": "https://github.com/Titogelo"
   },
   "linkedin": {
-    "title": "linkedin.com/in/angel.suarez",
-    "url": "https://www.linkedin.com/in/angel-suarez-fernandez-20658b23"
+    "title": "angel.suarez",
+    "url": "https://www.linkedin.com/in/angel-suarez-fernandez/"
   }
 }

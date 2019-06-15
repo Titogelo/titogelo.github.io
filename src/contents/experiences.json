@@ -1,21 +1,33 @@
 [{
-  "company": "Welten Institute (Open University of the Netherlands)",
-  "role": "PhD Candidate",
-  "date": "09/2013 - Present",
-  "location": "Heerlen, the Netherlands",
+  "company": "RISE Financial Technologies",
+  "role": "Software Engineer",
+  "date": "05/2018 - Present",
+  "location": "London, United Kingdom",
+  "website": "https://www.rise-technologies.com/",
   "description_bullets": [
-    "Conducted research on Inquiry Based Learning (IBL), aimed at providing better structural and managerial support for IBL processes through mobile, wearable and desktop based technology.",
-    "Responsible for DojoIBL: a GAE cloud-based solution to structure Collaborative Inquiry Based Learning processes.",
-    "Successful interdisciplinary collaborations in several European projects (weSPOT, ECO, LA4S & Elite), resulting in several scientific publications.",
-    "Areas of contribution: Inquiry Based Learning | Experimental Design | Software Engineering | DojoIBL | Statistical analysis in R | Learning Analytics | Machine Learning",    
-    "Dissertation defence scheduled December 2017"
+    "Core Blockchain Developer: Proprietary solution for Post Trade Finance based on Python",
+    "DevOps engineer: Ansible",
+    "Areas of contribution: Python | DevOps | Ansible | Go | Java"
+  ]
+},{
+  "company": "WELTEN Institute",
+  "role": "Education Technology Consultant",
+  "date": "12/2017 - 04/2018",
+  "location": "London, United Kingdom",
+  "website": "https://www.ou.nl/welten-instituut",
+  "description_bullets": [
+    "Leading and sustaining fruitful communications with stakeholders in order to keep a good and shared understanding of the research and learning objectives.",
+    "Leading the development and (automated) testing of DojoIBL, to ensure that new functionality reaches an optimal user experience quality level.",
+    "Aligning the interest from researchers, school leaders, and developers in order to generate win-win situations for every stakeholder.",
+    "Defining security policies and ensuring learners’ privacy."
   ]
 },
 {
-  "company": "Smart Data Protection",
+  "company": "Smart Data Protection S.L.",
   "role": "Co-Founder, Entrepreneur",
-  "date": "10/2012 - Present",
+  "date": "10/2012 - 12/2016",
   "location": "Maastricht, the Netherlands",
+  "website": "https://twitter.com/smartdata_es",
   "description_bullets": [
     "Responsible for leading the technical development.",
     "Smart Data Protection: Startup created to reduce customers' legal burden. Automated solution to adapt ecommerces, websites and SMEs to EU regulations.",
@@ -28,6 +40,7 @@
   "role": "Junior Software Engineer",
   "date": "10/2010 - 12/2012",
   "location": "Oviedo, Asturias, Spain",
+  "website": "http://www.sbinario.com/",
   "description_bullets": [
     "Actively developing and maintaining software for SMEs (Veterinary, Accounting and management, Lawyers college)",
     "Responsible for software development of the Albeitar project: Personalised software for veterinary clinics management",
@@ -38,7 +51,9 @@
   "role": "Front End Developer",
   "date": "07/2010 - 10/2010",
   "location": "Oviedo, Asturias, Spain",
+  "website": "https://espana.edp.com/en/edp-spain/energy",
   "description_bullets": [
+    "EDP has given me the opportunity learn how ",
     "Responsible for the frontend in the EcoFamilias project",
     "EcoFamilias was a project to manage and save electric consumption for Asturian homes",
     "Fuzzy logic to determine best savings in electric fees.",

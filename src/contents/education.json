@@ -1,5 +1,15 @@
 [{
-  "name": "Open University of the Netherlands",
+  "name": "WELTEN Institute",
+  "degree": "PhD Social Science / Researcher",
+  "date": "09/2013 - 12/2017",
+  "description_bullets": [
+    "Conducted research on Inquiry Based Learning (IBL), aimed at providing better structural and managerial support for IBL processes through mobile, wearable and desktop based technology.",
+    "Responsible for DojoIBL: a GAE cloud-based solution to structure Collaborative Inquiry Based Learning processes.",
+    "Successful interdisciplinary collaborations in several European projects (weSPOT, ECO, LA4S & Elite), resulting in several scientific publications.",
+    "Areas of contribution: Inquiry Based Learning | Experimental Design | Software Engineering | DojoIBL | Statistical analysis in R | Learning Analytics | Machine Learning"
+  ]
+},{
+  "name": "WELTEN Institute",
   "degree": "Master Thesis",
   "date": "01/2013 - 06/2013",
   "description": "Interactive visualizations for ARLearn, a tool suite for educators and learners, which aims to enhance educational experience based on serious games. ARLearn provides functionality for both teachers and students."

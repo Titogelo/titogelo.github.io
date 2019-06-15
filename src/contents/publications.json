@@ -1,15 +1,24 @@
-[{
-  "name": "Nurturing Communities of Inquiry: A Formative Study of the DojoIBL Platform, 2016",
-  "description": "This formative study introduces DojoIBL, a web-based platform to support collaborative inquiry-based learning processes. By supporting communication and collaboration with new technological affordances, DojoIBL aims at nurturing communities of inquiry. The study elaborates on the theoretical ...",
-  "link": "https://link.springer.com/chapter/10.1007/978-3-319-45153-4_22"
-}, {
-  "name": "Supporting Inquiry-based Learning with Google Glass (GPIM), 2015",
-  "description": "Wearable technology is a new genre of technology that is appearing to enhance learning in context. This manuscript introduces a Google Glass application to support Inquiry-based Learning (IBL). Applying Google Glass to IBL, we aim to transform the learning process into a more seamless, personal and ...",
-  "link": "http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/24_6.pdf"
-}, {
-  "name": "GPIM: Google Glassware for Inquiry-Based Learning, 2014",
-  "description": "Over the past few years, the use of mobile personal devices has witnessed a widespread take-up. With wearable technology like head-up-displays a new genre of educational technology is appearing to enhance contextualized learning. This paper reports about a Google Glass prototype for Inquiry-Based Learning ...",
-  "link": "https://link.springer.com/chapter/10.1007/978-3-319-11200-8_58"
-}]
+[
+  {
+    "name": "A review of the types of mobile activities in mobile inquiry-based learning, 2018",
+    "description": "The review presents insights on how this analytical framework can be used by educational practitioners to identify mobile activities that effectively balance learners’ agency with mobile technology.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0360131517302397"
+  },
+  {
+    "name": "Nurturing Communities of Inquiry: DojoIBL Platform, 2016",
+    "description": "This formative study introduces DojoIBL, a web-based platform to support collaborative inquiry-based learning processes. By supporting communication and collaboration with new technological affordances, DojoIBL aims at nurturing communities of inquiry. The study elaborates on the theoretical ...",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-45153-4_22"
+  },
+  {
+    "name": "Supporting Inquiry-based Learning with Google Glass, 2015",
+    "description": "Wearable technology is a new genre of technology that is appearing to enhance learning in context. This manuscript introduces a Google Glass application to support Inquiry-based Learning (IBL). Applying Google Glass to IBL, we aim to transform the learning process into a more seamless, personal and ...",
+    "link": "http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/24_6.pdf"
+  },
+  {
+    "name": "GPIM: Google Glassware for Inquiry-Based Learning, 2014",
+    "description": "Over the past few years, the use of mobile personal devices has witnessed a widespread take-up. With wearable technology like head-up-displays a new genre of educational technology is appearing to enhance contextualized learning. This paper reports about a Google Glass prototype for Inquiry-Based Learning ...",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-11200-8_58"
+  }
+]
 
 

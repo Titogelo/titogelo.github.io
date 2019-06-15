@@ -4,13 +4,13 @@
       <div class="padding-right-10">
         <h1>{{experience.role | trim}}</h1>
         <!--(bake-start _if="experience.company")-->
-          <h2>{{experience.company | trim}}</h2>
+          <h2><a href="{{experience.website | trim}}">{{experience.company | trim}}</a></h2>
         <!--(bake-end)-->
         <!--(bake-start _if="experience.organization")-->
           <h2>{{experience.organization | trim}}</h2>
         <!--(bake-end)-->
       </div>
-      <div class="volunteer-dateloc">
+      <div class="experience-dateloc">
         <!--(bake-start _if="experience.date")-->
         <h6 class="date">{{experience.date | trim}}</h6>
         <!--(bake-end)-->
